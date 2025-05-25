@@ -135,6 +135,32 @@
 
 ## 副本&BOSS
 
+## 互动提示
+
+### 全地牢
+
+![img](images/088ad605c5ed6c93b28a809c3a576f6fc94c2dea.png@1192w.avif)
+
+### 遗迹
+
+![img](images/e1e1f1d998165372a448b68aefdca3c30d127d57.png@1192w.avif)
+
+### 兽窟
+
+![img](images/6a941f42969b4ab0922396e1e025e3ad152ebbbe.png@1192w.avif)
+
+### 荒野
+
+![img](images/0d40134f78351418980741e76770600e050f4a4c.png@1192w.avif)
+
+### 海湾
+
+![img](images/ef1e8c15cf5a6ee9d17efd5ed1093d8c9d1ea014.png@1192w.avif)
+
+### 猩红庭院
+
+![img](images/5eee892041f531c8044195c21ef4a1906ab4084e.png@1192w.avif)
+
 ## 写在最后
 
 > 悬壶济世修女！！！
